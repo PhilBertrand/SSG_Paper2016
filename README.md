@@ -21,4 +21,4 @@ Kimura M, Crow JF (1964) The number of alleles that can be maintained in a finit
 
 Koen EL, Bowman J, Wilson PJ (2016) Node-based measures of connectivity in genetic networks. *Molecular Ecology Resources*, **16**, 69–79.
 
-https://zenodo.org/badge/64203637.svg
+[![DOI](https://zenodo.org/badge/64203637.svg)](https://zenodo.org/badge/latestdoi/64203637)
