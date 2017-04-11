@@ -20,3 +20,5 @@ Dyer RJ, Nason JD, Garrick RC (2010) Landscape modelling of gene flow: improved 
 Kimura M, Crow JF (1964) The number of alleles that can be maintained in a finite population. *Genetics*, **49**, 725–738. 
 
 Koen EL, Bowman J, Wilson PJ (2016) Node-based measures of connectivity in genetic networks. *Molecular Ecology Resources*, **16**, 69–79.
+
+https://zenodo.org/badge/64203637.svg
