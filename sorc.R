@@ -1,3 +1,7 @@
+# This function calculates the second order rate of change from a list
+# 
+# @x A list
+
 sorc <- function(x){
 
   if (!inherits(x, "list")) 
