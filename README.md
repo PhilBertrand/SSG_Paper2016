@@ -21,8 +21,6 @@ Kimura M, Crow JF (1964) The number of alleles that can be maintained in a finit
 
 Koen EL, Bowman J, Wilson PJ (2016) Node-based measures of connectivity in genetic networks. *Molecular Ecology Resources*, **16**, 69–79.
 
-[![DOI](https://zenodo.org/badge/64203637.svg)](https://zenodo.org/badge/latestdoi/64203637)
-
 ### How to cite
 *Original manuscript*:
 Bertrand P, Bowman J, Dyer R, Manseau M, Wilson PJ (2017) Sex-Specific Graphs: Relating Group-Specific Topology to Demographic and Landscape Data. Molecular Ecology. Accepted.
