@@ -11,7 +11,7 @@ More precisely, scripts are divided into two main categories; 1) Generic functio
 ## Sensitivity Analyses
 1) `sens_GD()` : R code for performing the sensitivity analysis reported in the manuscript "Sex-Specific Graphs: Relating Group-Specific Topology to Demographic and Landscape Data". The code calculates variability in genetic diversity estimates (*Ae*; Kimura & Crow, 1964) through different scenarios of sampling intensities.
 
-1) `sens_topology()` : R code for performing the sensitivity analysis on topology reported in the manuscript "Sex-Specific Graphs: Relating Group-Specific Topology to Demographic and Landscape Data". The code calculates variability in eigenvector centrality centralization score through different scenarios of node removal. Note that this code could also be applied on different network metrics such as conditional genetic distance (cGD; Dyer *et al*., 2010).
+1) `sens_topology()` : R code for performing the sensitivity analysis on topology reported in the manuscript "Sex-Specific Graphs: Relating Group-Specific Topology to Demographic and Landscape Data". The code calculates variability in eigenvector centrality centralization score through different scenarios of node removal. Note that this code could also be applied on different network metrics such as conditional genetic distance (*cGD*; Dyer *et al*., 2010).
 
 ### References
 
@@ -26,4 +26,4 @@ Koen EL, Bowman J, Wilson PJ (2016) Node-based measures of connectivity in genet
 Bertrand P, Bowman J, Dyer R, Manseau M, Wilson PJ (2017) Sex-Specific Graphs: Relating Group-Specific Topology to Demographic and Landscape Data. Molecular Ecology. Accepted.
 
 *Code package*:
-Bertrand P, Bowman J, Dyer R, Manseau M, Wilson PJ (2017) Code from: Sex-Specific Graphs: Relating Group-Specific Topology to Demographic and Landscape Data. GitHub Repository. http://doi.org/10.5281/zenodo.556200
+Bertrand P, Bowman J, Dyer R, Manseau M, Wilson PJ (2017) Code from: Sex-Specific Graphs: Relating Group-Specific Topology to Demographic and Landscape Data. ONLINE. Available at: https://github.com/PhilBertrand/SexSpecificGraph
