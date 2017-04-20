@@ -13,7 +13,8 @@ koen_centrality <- function(graph)
                class(graph)))
   ret <- NULL
   
-  sp <- 1/(popgraph::to_matrix(graph, mode = "shortest path"))
+  sp <- as.matrix(1/graph[])
+  is.na(sp) <- do.call(cbind,lapply(sp, is.infinite))
   diag(sp) = NA
   ret <- colMeans(sp, na.rm = TRUE)
   
