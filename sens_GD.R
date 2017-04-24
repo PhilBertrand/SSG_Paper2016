@@ -20,7 +20,7 @@ sens_GD <- function(x, column, nTresh = NULL, nRep = 99) {
     stop("You need to specify which 'groups' need to be evaluated e.g. population?")
   if (!is.character(column))
     stop("You need to specify the name of the appropriate column (i.e. 'character') where your groups ID are indicated")
-    if (missing(nTresh)) 
+    if (missing(nTresh) || is.null(nTresh))
     nTresh <- min(table(x[[column]]))
   
 groups <- factor(as.character(x[[column]]))

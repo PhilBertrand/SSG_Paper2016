@@ -4,7 +4,7 @@
 # @x The data.frame with locus columns formatted as a 'gstudio' object
 # @column Character name characterizing your groups, e.g. Population, sampling sites, etc.
 # @nTresh The maximum number of population to removed. NA could result from specific scenario if
-# is too low in network data, corresponding to network collapse. If nothing is specified, nTresh
+# variability is too low from network data, corresponding to network collapse. If nothing is specified, nTresh
 # is set to max(length(levels(groups)))-3, since it commonly ends up with no result.
 # @nRep The number of replicates. Default is set to 99.
 
