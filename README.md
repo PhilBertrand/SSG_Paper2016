@@ -23,7 +23,7 @@ Koen EL, Bowman J, Wilson PJ (2016) Node-based measures of connectivity in genet
 
 ### How to cite
 *Original manuscript*:
-Bertrand P, Bowman J, Dyer R, Manseau M, Wilson PJ (2017) Sex-Specific Graphs: Relating Group-Specific Topology to Demographic and Landscape Data. Molecular Ecology. Accepted.
+Bertrand P, Bowman J, Dyer R, Manseau M, Wilson PJ (2017) Sex-Specific Graphs: Relating Group-Specific Topology to Demographic and Landscape Data. *Molecular Ecology*, **26**, 3898-3912. https://doi.org/10.1111/mec.14174
 
 *Code package*:
 Bertrand P, Bowman J, Dyer R, Manseau M, Wilson PJ (2017) Code from: Sex-Specific Graphs: Relating Group-Specific Topology to Demographic and Landscape Data. ONLINE. Available at: https://github.com/PhilBertrand/SexSpecificGraph
